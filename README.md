@@ -2,6 +2,15 @@
 
 A comprehensive trading software built in Python with API integration for cryptocurrency trading and **Indian Stock Market (NSE/BSE) including Futures & Options**.
 
+## 🎯 Latest Features
+
+✅ **Interactive Charts Dashboard** - Real-time charts with Plotly  
+✅ **Indian F&O Symbol Builder** - Easy NIFTY, BANKNIFTY futures and options symbol generation  
+✅ **Crypto Futures/Options Builder** - Build crypto derivatives symbols  
+✅ **Multi-Account Management** - Manage multiple trading accounts  
+✅ **Chart Pattern Detection** - Automatic pattern recognition  
+✅ **Technical Indicators** - RSI, MACD, Bollinger Bands, and more
+
 ## Features
 
 - **Multiple Broker Support**: 
