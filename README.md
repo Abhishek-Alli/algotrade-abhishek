@@ -50,6 +50,28 @@ TESTNET=true  # Use testnet for testing
 
 ## Usage
 
+### 🎨 Interactive Dashboard (Recommended)
+
+Launch the Streamlit dashboard for visual trading:
+```bash
+streamlit run dashboard_app.py
+```
+
+**Features:**
+- 📈 **Charts Page**: View real-time charts with Indian F&O and Crypto symbol builders
+- 💱 **Trades Page**: Create and manage trades across multiple accounts
+- 📊 **Indicators Page**: Technical indicators (RSI, MACD, Bollinger Bands)
+- 🎯 **Strategies Page**: Generate trading signals and backtest strategies
+- 👥 **Accounts Page**: Manage multiple trading accounts
+- 📉 **Chart Pattern Detection**: Automatic pattern recognition
+
+**Charts Features:**
+- **Indian F&O Symbol Builder**: Generate NIFTY, BANKNIFTY futures and options symbols
+- **Crypto Futures/Options Builder**: Build crypto derivatives symbols
+- **Real-time Candlestick Charts**: Interactive charts with Plotly
+- **Volume Analysis**: Volume bars with price charts
+- **Pattern Detection**: Head & Shoulders, Double Top/Bottom, Triangles, etc.
+
 ### For Cryptocurrency Trading
 
 Run the trading software:
